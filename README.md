@@ -1,4 +1,4 @@
-Front-End Inventario Mantenimiento
+# Front-End Inventario Mantenimiento
 
 Instalar node, android studio y java y JDK 20
 
